@@ -5,6 +5,7 @@
 # Section 1 Network Basics
 
 What is Network?
+
 -Network is the entire set of the rules with devices that can exchange data with each other and connections that enable this communication 
 
 Devices be like:
